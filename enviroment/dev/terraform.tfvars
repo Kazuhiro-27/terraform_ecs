@@ -1,0 +1,11 @@
+# aws_region           = "us-west-2"
+# project_name         = "my-ecs-project"
+# vpc_cidr             = "10.0.0.0/16"
+# private_subnet_cidrs = ["10.0.1.0/24", "10.0.2.0/24"]
+# availability_zones   = ["us-west-2a", "us-west-2b"]
+# task_cpu             = 256
+# task_memory          = 512
+# container_name       = "my-app"
+# container_image      = "nginx:latest"
+# container_port       = 80
+# # desired_count        = 1
